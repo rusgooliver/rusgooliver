@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rusgooliver
-- 👀 I’m interested in ...
+- 👋 Hi, I’m @rusgooliver and my name is Ruslan.
+- 👀 I’m interested in network, python, automation. Also automobile, travel.
 - 🌱 I’m currently learning Cisco DevNet Associate 1.0 (DEVASC) course (09/2021), information security, network security. 
-- 💞️ I’m looking to collaborate on ... I haven't decided yet
+- 💞️ I’m looking to collaborate on ... I haven't decided yet.
 - 📫 How to reach me ...
 
 <!---
